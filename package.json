@@ -1,0 +1,20 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "wtfToEat": "node dist/app.js",
+    "t": "ts-node src/app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clear-any-console": "^1.16.2",
+    "ts-node": "^10.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.1"
+  }
+}
